@@ -1,0 +1,8 @@
+chatterbot-corpus==1.2.0
+transformers==4.34.0
+torch
+nltk==3.9.1
+scikit-learn==1.2.2
+pandas==1.5.3
+simple-websocket-server==0.4.4
+pyyaml==5.1
